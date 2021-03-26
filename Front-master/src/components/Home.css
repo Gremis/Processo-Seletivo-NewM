@@ -1,0 +1,20 @@
+tbody {
+  font-size: 0.8rem;
+}
+
+.button {
+  display: inline-flex;
+  margin: 5px;
+  padding: 20px;
+}
+
+.button .btn {
+  font-size: 0.8rem;
+  padding: 5px;
+  margin: 3px;
+}
+
+.input-group {
+  width: 50vw;
+  margin-left: 25vw;
+}
