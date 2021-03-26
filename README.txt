@@ -29,4 +29,10 @@ Depois de ter instalado o arquivo node_modules, inicie a aplicação com a base 
 npm run start
 ```
 
+Outra alternativa é clonar o repositório https://github.com/Gremis/Processo-Seletivo-NewM.git
 
+Qualquer sugestão ou dúvida fico a dispor,
+
+Atenciosamente,
+
+Gremis Tovar
